@@ -56,7 +56,7 @@
     "expo-image-picker": "~14.7.1",
     "expo-localization": "~14.8.3",
     "expo-location": "~16.5.3",
-    "expo-notifications": "~0.27.6",
+    "expo-notifications": "~56.0.18",
     "expo-splash-screen": "~0.26.4",
     "expo-status-bar": "~1.11.1",
     "expo-task-manager": "~11.7.2",
